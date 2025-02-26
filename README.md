@@ -82,3 +82,9 @@
   <a href="https://www.kaggle.com/vnn777" target="_blank"><img src="https://img.shields.io/badge/Kaggle-vnn777-%23009FFD?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="https://www.instagram.com/evanhfw" target="_blank"><img src="https://img.shields.io/badge/Instagram-evanhfw-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
