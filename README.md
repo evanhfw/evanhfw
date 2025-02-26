@@ -20,7 +20,7 @@
 ## 🏆 Achievements  
 ✅ **1st Place** – Olimpiade Statistika SPSS | 2024 (BINUS University)  
 ✅ **Top 4 (Juara Harapan 1)** – LKTI Jambore Statistika XIV | 2025 (Univ. Mulawarman)  
-✅ **1st/196 (Public), 12/196 (Private)** – Hology 7.0 | 2024(Univ. Brawijaya)  
+✅ **1st/196 (Public), 12/196 (Private)** – Hology 7.0 | 2024 (Univ. Brawijaya)  
 ✅ **16th/202** – FIND IT Data Analytics | 2024 (UGM)  
 ✅ **38th/107** – DataSlayer 1.0 ML Contest | 2024 (ITP)  
 
