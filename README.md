@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evan</h1>
-<p align="center">📊 Statistics Student | 🤖 ML & AI Enthusiast | 🚀 Data Scientist in the Making</p>
+<p align="center">📊 Statistics Student | 🤖 ML & AI Enthusiast</p>
 
 <p align="center">
   <a href="https://evanhfw.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-evanhfw.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
