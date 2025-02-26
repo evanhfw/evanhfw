@@ -2,7 +2,7 @@
 <p align="center">📊 Statistics Student | 🤖 ML & AI Enthusiast | 🚀 Data Scientist in the Making</p>
 
 <p align="center">
-  <a href="https://evanhfw.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-evanhfw.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://evanhfw.github.io/" target="_blank"><img src="https://img.shields.io/badge/PersonalWebsite-evanhfw.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/evanhfw/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-evanhanif-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.kaggle.com/vnn777" target="_blank"><img src="https://img.shields.io/badge/Kaggle-vnn777-%23009FFD?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </p>
@@ -37,10 +37,6 @@
 ### 📈 **Student Researcher** – Universitas Sebelas Maret (Jun 2024 - Present)  
 - Developed **time series forecasting models** for daily electricity consumption.  
 - Presented at **BicoPam 2024 (International Conference)**.  
-
-### 📊 **Research & Statistics Staff** – Ikatan Himpunan Mahasiswa Statistika Indonesia (Mar 2023 - Oct 2024)  
-- Led **"Learning With IHMSI"**, creating educational content on **statistics & data science**.  
-- Managed **EUNOIA STATISTICS 2023**, attracting **600+ participants**.  
 
 ---
 
@@ -81,7 +77,7 @@
 ## 🌎 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/evanhanif" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-evanhanif-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/evanhfw" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-evanhanif-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.kaggle.com/vnn777" target="_blank"><img src="https://img.shields.io/badge/Kaggle-vnn777-%23009FFD?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="https://www.instagram.com/evanhfw" target="_blank"><img src="https://img.shields.io/badge/Instagram-evanhfw-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
