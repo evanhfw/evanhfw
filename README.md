@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Evan Hanif Widiatama</h1>
+<h1 align="center">Hi 👋, I'm Evan</h1>
 <p align="center">📊 Statistics Student | 🤖 ML & AI Enthusiast | 🚀 Data Scientist in the Making</p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 ---
 
 ## 🏆 Achievements  
-✅ **1st Place** – Olimpiade Statistika SPSS 2024 (BINUS University)  
-✅ **Top 4 (Juara Harapan 1)** – LKTI Jambore Statistika XIV (Univ. Mulawarman)  
-✅ **1st/196 (Public), 12/196 (Private)** – Hology 7.0 (Univ. Brawijaya)  
-✅ **16th/202** – FIND IT Data Analytics (UGM)  
-✅ **38th/107** – DataSlayer 1.0 ML Contest (ITP)  
+✅ **1st Place** – Olimpiade Statistika SPSS | 2024 (BINUS University)  
+✅ **Top 4 (Juara Harapan 1)** – LKTI Jambore Statistika XIV | 2025 (Univ. Mulawarman)  
+✅ **1st/196 (Public), 12/196 (Private)** – Hology 7.0 | 2024(Univ. Brawijaya)  
+✅ **16th/202** – FIND IT Data Analytics | 2024 (UGM)  
+✅ **38th/107** – DataSlayer 1.0 ML Contest | 2024 (ITP)  
 
 📜 **See all my certifications here** → [Certifications](https://evanhfw.github.io/certifications/)  
 
@@ -36,12 +36,9 @@
 - Assisted in developing **edge AI solutions** for deployment on embedded systems.  
 
 ### 📈 **Research Assistant (Hybrid Machine Learning)** – Universitas Sebelas Maret (Jan 2025 - Present)  
-- Conducting research on **hybrid machine learning techniques** for predictive analytics.  
-- Implementing advanced **ensemble learning models** and **deep learning architectures**.  
-- Collaborating with faculty and peers on **grant-funded research projects**.  
 
 ### 📈 **Research Assistant (Time Series Forecasting)** – Universitas Sebelas Maret (Jun 2024 - Present)  
-- Part of the **BIMA 2024 grant program**, focusing on **time series forecasting**.  
+- Part of the **XXX grant program**, focusing on **time series forecasting**.  
 - Designed and implemented **ensemble learning models** (Random Forest, Gradient Boosting) for electricity demand prediction.  
 - Achieved **1-2% MAPE** on a **30-day forecast** using **sliding window cross-validation (30 folds)**.  
 - Presented research findings at **BicoPam 2024 (International Conference)**.  
