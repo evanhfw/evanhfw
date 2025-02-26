@@ -13,7 +13,6 @@
 - 🎓 **Statistics Student** at Universitas Sebelas Maret (Class of 2026)  
 - 📊 Passionate about **Machine Learning, AI, and Data Science**  
 - 🔍 Researching **Hybrid Machine Learning & Time Series Forecasting**  
-- 🏆 Multiple award-winning **data science & machine learning competitor**  
 - 💡 Seeking opportunities in **Data Science, ML Engineering, and AI Research**  
 
 ---
