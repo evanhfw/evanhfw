@@ -2,7 +2,7 @@
 <p align="center">📊 Statistics Student | 🤖 ML & AI Enthusiast | 🚀 Data Scientist in the Making</p>
 
 <p align="center">
-  <a href="https://evanhfw.github.io/" target="_blank"><img src="https://img.shields.io/badge/PersonalWebsite-evanhfw.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://evanhfw.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-evanhfw.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/evanhfw/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-evanhanif-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.kaggle.com/vnn777" target="_blank"><img src="https://img.shields.io/badge/Kaggle-vnn777-%23009FFD?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </p>
