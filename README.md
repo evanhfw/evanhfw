@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://evanhfw.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-evanhfw.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/evanhfw/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-evanhanif-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/evanhanif/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-evanhanif-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.kaggle.com/vnn777" target="_blank"><img src="https://img.shields.io/badge/Kaggle-vnn777-%23009FFD?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </p>
 
@@ -31,11 +31,20 @@
 ## 🧑‍💻 Experience  
 
 ### 🎯 **Computer Vision Engineer Intern** – DataIns (Dec 2024 - Present)  
-- Migrated **YOLOv10 to YOLOv11** for improved object detection performance.  
+- Migrated **YOLOv10 to YOLOv11**, improving **object detection performance** with the latest advancements in deep learning.  
+- Optimized **inference speed and accuracy**, enabling real-time processing.  
+- Assisted in developing **edge AI solutions** for deployment on embedded systems.  
 
-### 📈 **Student Researcher** – Universitas Sebelas Maret (Jun 2024 - Present)  
-- Developed **time series forecasting models** for daily electricity consumption.  
-- Presented at **BicoPam 2024 (International Conference)**.  
+### 📈 **Research Assistant (Hybrid Machine Learning)** – Universitas Sebelas Maret (Jan 2025 - Present)  
+- Conducting research on **hybrid machine learning techniques** for predictive analytics.  
+- Implementing advanced **ensemble learning models** and **deep learning architectures**.  
+- Collaborating with faculty and peers on **grant-funded research projects**.  
+
+### 📈 **Research Assistant (Time Series Forecasting)** – Universitas Sebelas Maret (Jun 2024 - Present)  
+- Part of the **BIMA 2024 grant program**, focusing on **time series forecasting**.  
+- Designed and implemented **ensemble learning models** (Random Forest, Gradient Boosting) for electricity demand prediction.  
+- Achieved **1-2% MAPE** on a **30-day forecast** using **sliding window cross-validation (30 folds)**.  
+- Presented research findings at **BicoPam 2024 (International Conference)**.  
 
 ---
 
