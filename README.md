@@ -16,35 +16,6 @@
 - 💡 Seeking opportunities in **Data Science, ML Engineering, and AI Research**  
 
 ---
-
-## 🏆 Achievements  
-✅ **1st Place** – Olimpiade Statistika SPSS | 2024 (BINUS University)  
-✅ **Top 4 (Juara Harapan 1)** – LKTI Jambore Statistika XIV | 2025 (Univ. Mulawarman)  
-✅ **1st/196 (Public), 12/196 (Private)** – Hology 7.0 | 2024 (Univ. Brawijaya)  
-✅ **16th/202** – FIND IT Data Analytics | 2024 (UGM)  
-✅ **38th/107** – DataSlayer 1.0 ML Contest | 2024 (ITP)  
-
-📜 **See all my certifications here** → [Certifications](https://evanhfw.github.io/certifications/)  
-
----
-
-## 🧑‍💻 Experience  
-
-### 🎯 **Computer Vision Engineer Intern** – DataIns (Dec 2024 - Present)  
-- Migrated **YOLOv10 to YOLOv11**, improving **object detection performance** with the latest advancements in deep learning.  
-- Optimized **inference speed and accuracy**, enabling real-time processing.  
-- Assisted in developing **edge AI solutions** for deployment on embedded systems.  
-
-### 📈 **Research Assistant (Hybrid Machine Learning)** – Universitas Sebelas Maret (Jan 2025 - Present)  
-
-### 📈 **Research Assistant (Time Series Forecasting)** – Universitas Sebelas Maret (Jun 2024 - Present)  
-- Part of the **XXX grant program**, focusing on **time series forecasting**.  
-- Designed and implemented **ensemble learning models** (Random Forest, Gradient Boosting) for electricity demand prediction.  
-- Achieved **1-2% MAPE** on a **30-day forecast** using **sliding window cross-validation (30 folds)**.  
-- Presented research findings at **BicoPam 2024 (International Conference)**.  
-
----
-
 ## 🛠 Languages & Tools  
 
 <p align="center">
